@@ -15,3 +15,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 This is a simple web project, deployment is easy.
 
 ## How to Contribute
+
+###Copyright
+
+2020 Git.Training
