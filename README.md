@@ -16,6 +16,8 @@ This is a simple web project, deployment is easy.
 
 ## How to Contribute
 
+Please for this reposity and then issue and Pull Requests for review.
+
 ###Copyright
 
 2020 Git.Training
